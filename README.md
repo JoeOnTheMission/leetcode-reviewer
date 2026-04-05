@@ -40,7 +40,7 @@ Every note is automatically filled with:
 - ⬜ Your personal reflection — the only part you write
 
 ---
-
+```bash
 ## Demo
 
 ========================================
@@ -71,7 +71,7 @@ Every note is automatically filled with:
   ✅ Done!
   /home/joe/Desktop/vault 2.0/LeetCode/1. Two Sum.md
 ========================================
-
+```
 ---
 
 ## Requirements
