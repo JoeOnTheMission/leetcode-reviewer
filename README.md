@@ -40,9 +40,9 @@ Every note is automatically filled with:
 - ⬜ Your personal reflection — the only part you write
 
 ---
-```bash
-## Demo
 
+## Demo
+```bash
 ========================================
    LeetCode Review Automator
    Processing 1 problem(s)
@@ -185,7 +185,7 @@ python main.py --file urls.txt
 ---
 
 ## Project structure
-
+```
 leetcode-reviewer/
 │
 ├── main.py                 # Entry point — run this
@@ -206,6 +206,7 @@ leetcode-reviewer/
 ├── requirements.txt        # Python dependencies
 └── .gitignore
 ---
+```
 
 ## Troubleshooting
 
